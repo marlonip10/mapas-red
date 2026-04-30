@@ -25,3 +25,12 @@ To https://github.com/marlonip10/mapas-red.git
 ============================== 
 FIN MAPAS jue 30/04/2026 16:36:30.52 
 ============================== 
+warning: in the working copy of 'log_mapas.txt', LF will be replaced by CRLF the next time Git touches it
+Hay cambios, haciendo commit... 
+[main 33e6bc7] actualizacion automatica mapas
+ 5 files changed, 13 insertions(+), 4 deletions(-)
+To https://github.com/marlonip10/mapas-red.git
+   8a6f243..33e6bc7  main -> main
+============================== 
+FIN MAPAS jue 30/04/2026 16:53:07.31 
+============================== 

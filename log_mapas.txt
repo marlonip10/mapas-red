@@ -209,3 +209,30 @@ To https://github.com/marlonip10/mapas-red.git
 ============================== 
 FIN MAPAS lun 04/05/2026 11:21:27.24 
 ============================== 
+warning: in the working copy of 'log_mapas.txt', LF will be replaced by CRLF the next time Git touches it
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   BENEFICIARIOS_HUANUCO.html
+	modified:   BENEFICIARIOS_PASCO.html
+	modified:   RED_DE_ACCESO_HUANUCO.html
+	modified:   RED_DE_ACCESO_PASCO.html
+	modified:   log_mapas.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   log_mapas.txt
+
+Hay cambios, haciendo commit... 
+[main 752b679] actualizacion automatica mapas
+ 5 files changed, 13 insertions(+), 4 deletions(-)
+Haciendo push... 
+To https://github.com/marlonip10/mapas-red.git
+   eb8a4ad..752b679  main -> main
+Push completado 
+============================== 
+FIN MAPAS lun 04/05/2026 11:33:27.45 
+============================== 

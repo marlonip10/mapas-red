@@ -236,3 +236,11 @@ Push completado
 ============================== 
 FIN MAPAS lun 04/05/2026 11:33:27.45 
 ============================== 
+warning: in the working copy of 'log_mapas.txt', LF will be replaced by CRLF the next time Git touches it
+[main 98f4a5b] actualizacion automatica mapas
+ 5 files changed, 31 insertions(+), 4 deletions(-)
+To https://github.com/marlonip10/mapas-red.git
+   752b679..98f4a5b  main -> main
+============================== 
+FIN MAPAS lun 04/05/2026 11:37:53.31 
+============================== 
